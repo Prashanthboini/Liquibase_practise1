@@ -1,0 +1,5 @@
+Create Schema Demo_user
+create table liquibase(
+id Number,
+name Varchar,
+place varchar)
